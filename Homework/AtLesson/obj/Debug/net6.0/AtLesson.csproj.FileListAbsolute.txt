@@ -1,0 +1,15 @@
+/Users/ali200119/Desktop/Homework/Homework/AtLesson/bin/Debug/net6.0/AtLesson
+/Users/ali200119/Desktop/Homework/Homework/AtLesson/bin/Debug/net6.0/AtLesson.deps.json
+/Users/ali200119/Desktop/Homework/Homework/AtLesson/bin/Debug/net6.0/AtLesson.runtimeconfig.json
+/Users/ali200119/Desktop/Homework/Homework/AtLesson/bin/Debug/net6.0/AtLesson.dll
+/Users/ali200119/Desktop/Homework/Homework/AtLesson/bin/Debug/net6.0/AtLesson.pdb
+/Users/ali200119/Desktop/Homework/Homework/AtLesson/obj/Debug/net6.0/AtLesson.csproj.AssemblyReference.cache
+/Users/ali200119/Desktop/Homework/Homework/AtLesson/obj/Debug/net6.0/AtLesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali200119/Desktop/Homework/Homework/AtLesson/obj/Debug/net6.0/AtLesson.AssemblyInfoInputs.cache
+/Users/ali200119/Desktop/Homework/Homework/AtLesson/obj/Debug/net6.0/AtLesson.AssemblyInfo.cs
+/Users/ali200119/Desktop/Homework/Homework/AtLesson/obj/Debug/net6.0/AtLesson.csproj.CoreCompileInputs.cache
+/Users/ali200119/Desktop/Homework/Homework/AtLesson/obj/Debug/net6.0/AtLesson.dll
+/Users/ali200119/Desktop/Homework/Homework/AtLesson/obj/Debug/net6.0/refint/AtLesson.dll
+/Users/ali200119/Desktop/Homework/Homework/AtLesson/obj/Debug/net6.0/AtLesson.pdb
+/Users/ali200119/Desktop/Homework/Homework/AtLesson/obj/Debug/net6.0/AtLesson.genruntimeconfig.cache
+/Users/ali200119/Desktop/Homework/Homework/AtLesson/obj/Debug/net6.0/ref/AtLesson.dll

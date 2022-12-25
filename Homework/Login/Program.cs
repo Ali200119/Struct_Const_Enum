@@ -19,8 +19,8 @@ using Login.Controllers;
 
 #region Task 3
 
-GetCustomersController getCustomersController = new GetCustomersController();
+//GetCustomersController getCustomersController = new GetCustomersController();
 
-getCustomersController.Show();
+//getCustomersController.Show();
 
 #endregion
