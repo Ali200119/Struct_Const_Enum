@@ -16,3 +16,5 @@
 /Users/ali200119/Desktop/Homework/Homework/Login/obj/Debug/net6.0/Login.pdb
 /Users/ali200119/Desktop/Homework/Homework/Login/obj/Debug/net6.0/Login.genruntimeconfig.cache
 /Users/ali200119/Desktop/Homework/Homework/Login/obj/Debug/net6.0/ref/Login.dll
+/Users/ali200119/Desktop/Homework/Homework/Login/bin/Debug/net6.0/Domain.dll
+/Users/ali200119/Desktop/Homework/Homework/Login/bin/Debug/net6.0/Domain.pdb
