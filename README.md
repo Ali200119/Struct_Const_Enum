@@ -1,1 +1,1 @@
-# Struct_Const_Enum
+Homework for Monday (26.12.2022)
